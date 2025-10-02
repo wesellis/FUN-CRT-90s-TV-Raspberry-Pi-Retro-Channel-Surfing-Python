@@ -1,6 +1,12 @@
 ﻿# 90s CRT TV Project
 
-A Raspberry Pi-powered retro TV experience with authentic channel surfing!
+A Raspberry Pi-powered retro TV experience with authentic channel surfing.
+
+[![Python](https://img.shields.io/badge/Python-3.9+-3776AB?style=flat-square&logo=python&logoColor=white)](https://python.org)
+[![Raspberry Pi](https://img.shields.io/badge/Raspberry_Pi-A22846?style=flat-square&logo=raspberry-pi&logoColor=white)](#)
+[![License](https://img.shields.io/badge/License-MIT-green?style=flat-square)](LICENSE)
+[![Stars](https://img.shields.io/github/stars/wesellis/FUN-CRT-90s-TV-Raspberry-Pi-Retro-Channel-Surfing-Python?style=flat-square)](https://github.com/wesellis/FUN-CRT-90s-TV-Raspberry-Pi-Retro-Channel-Surfing-Python/stargazers)
+[![Last Commit](https://img.shields.io/github/last-commit/wesellis/FUN-CRT-90s-TV-Raspberry-Pi-Retro-Channel-Surfing-Python?style=flat-square)](https://github.com/wesellis/FUN-CRT-90s-TV-Raspberry-Pi-Retro-Channel-Surfing-Python/commits)
 
 ## Features
 - 8 themed channels (sitcoms, cartoons, anime, etc.)
@@ -27,7 +33,7 @@ A Raspberry Pi-powered retro TV experience with authentic channel surfing!
 3. Content organization
 4. Configuration
 
-Built with ❤️ for 90s nostalgia
+Built for 90s nostalgia enthusiasts
 
 ---
 
