@@ -1,0 +1,10 @@
+﻿# Python dependencies for 90s CRT TV
+pygame>=2.5.0
+python-vlc>=3.0.18121
+requests>=2.31.0
+schedule>=1.2.0
+RPi.GPIO>=0.7.1
+python-lirc>=1.2.3
+opencv-python>=4.8.0
+numpy>=1.24.0
+Pillow>=10.0.0

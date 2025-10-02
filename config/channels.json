@@ -1,0 +1,63 @@
+﻿{
+  "channels": {
+    "1": {
+      "name": "TV Guide",
+      "type": "guide",
+      "description": "Channel listings and what's on now"
+    },
+    "2": {
+      "name": "Sitcoms",
+      "type": "video",
+      "description": "Classic 90s sitcoms",
+      "shows": ["Seinfeld", "Friends", "Cheers", "Frasier"],
+      "media_path": "media/channel_02_sitcoms"
+    },
+    "3": {
+      "name": "Cartoons", 
+      "type": "video",
+      "description": "Saturday morning cartoons",
+      "shows": ["Animaniacs", "DuckTales", "Gargoyles"],
+      "media_path": "media/channel_03_cartoons"
+    },
+    "4": {
+      "name": "Nicktoons",
+      "type": "video", 
+      "description": "Classic Nickelodeon shows",
+      "shows": ["Rugrats", "Doug", "Hey Arnold"],
+      "media_path": "media/channel_04_nicktoons"
+    },
+    "5": {
+      "name": "Anime",
+      "type": "video",
+      "description": "Toonami block anime", 
+      "shows": ["Dragon Ball Z", "Sailor Moon"],
+      "media_path": "media/channel_05_anime"
+    },
+    "6": {
+      "name": "Comedy Central",
+      "type": "video",
+      "description": "Edgy 90s comedy",
+      "shows": ["Beavis and Butt-Head", "South Park"],
+      "media_path": "media/channel_06_comedy"
+    },
+    "7": {
+      "name": "MTV",
+      "type": "video", 
+      "description": "Music videos and reality TV",
+      "shows": ["Music Videos", "The Real World"],
+      "media_path": "media/channel_07_mtv"
+    },
+    "8": {
+      "name": "Weather Channel",
+      "type": "weather",
+      "description": "Local weather with smooth jazz",
+      "app_path": "weather/ws4kp"
+    },
+    "9": {
+      "name": "Games",
+      "type": "gaming",
+      "description": "Retro gaming with EmulationStation", 
+      "emulator_path": "media/channel_09_games"
+    }
+  }
+}
